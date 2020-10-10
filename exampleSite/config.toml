@@ -1,6 +1,5 @@
 baseURL = "https://example.com"
 title = "Your title"
-themesDir = "../.."
 theme = "m10c"
 paginate = 5
 
